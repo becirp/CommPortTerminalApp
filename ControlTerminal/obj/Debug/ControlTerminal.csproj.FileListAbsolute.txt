@@ -1,0 +1,10 @@
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\bin\Debug\ControlTerminal.exe.config
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\bin\Debug\ControlTerminal.exe
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\bin\Debug\ControlTerminal.pdb
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.csprojAssemblyReference.cache
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.Form1.resources
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.Properties.Resources.resources
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.csproj.GenerateResource.cache
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.csproj.CoreCompileInputs.cache
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.exe
+D:\Workspace\VisualStudio_Workspace\ControlTerminal\ControlTerminal\obj\Debug\ControlTerminal.pdb
